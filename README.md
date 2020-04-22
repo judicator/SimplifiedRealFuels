@@ -141,5 +141,5 @@ You are free to share and adapt the materials only for non-commercial purposes a
 
 Simplified Real Fuels includes icons for it's tech tree, taken from:
 * [Community Tech Tree](https://github.com/ChrisAdderley/CommunityTechTree)
-* [Realistic Progression Zero/One](https://github.com/KSP-RO/RP-0)
+* [Realistic Progression Zero/One](https://github.com/KSP-RO/RP-0)  
 Both mods are distributed under the same license (Creative Commons Attribution-NonCommercial 4.0 International License).
