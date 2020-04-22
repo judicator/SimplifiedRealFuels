@@ -21,7 +21,7 @@ Some engines have no fuel pumps and require fuel/oxidizer to be "pushed" to them
 Fuel tanks now have realistic dry masses. Default (standard garden variety) and highly-pressurized tanks are divided into 4 tech levels. Higher tech level tanks have better dry mass and volume utilization (97% volume for tech IV vs 88% volume for tech I tank), but are more expensive. There are also special tanks types:
   * Balloon - very light, but fragile tanks. In real life balloon tanks must be kept pressurized at all times. In KSP, these tanks have very low crash tolerance, low max temp and high price. Volume utilization: 100%.
   * Cryogenic tank - same as balloon tanks, but not so fragile, and with thermal insulation. Used for long-term storage of cryogenic fluids, such as Lqd. Hydrogen. Volume utilization: 99%. Most expensive fuel tank type.
-  * Fuselage - heavy tanks with thermal protection. Have high max temp value. Volume utilization: 92%. Intended for spaceplanes and other reentry-capable spacecrafts.
+  * Fuselage - heavy tanks with thermal protection. Have high max temp value. Volume utilization: 92%. Intended for spaceplanes and other reentry-capable spacecrafts.  
 All fuels tanks in game now have tank type switch. Available options depends of technological level of tank and some other part parameters. For example, you can use the same good old Jumbo tank for your KeroLOX first stage, and for HydroLOX upper stage, by simply switching fuel tank type.
 * **Engines thrust and ISP rebalance**  
 Most liquid fuel engines have about one third of their real-life counterparts' thrust, and same (i.e. realistic) ISP. However, engines patches are individual and in many cases their thrust is set higher for balance reasons (this is especially true for upper stage engines). Engines masses also have been tweaked, and most of engines now have TWR in range of 40 to 55.
@@ -142,4 +142,5 @@ You are free to share and adapt the materials only for non-commercial purposes a
 Simplified Real Fuels includes icons for it's tech tree, taken from:
 * [Community Tech Tree](https://github.com/ChrisAdderley/CommunityTechTree)
 * [Realistic Progression Zero/One](https://github.com/KSP-RO/RP-0)  
+
 Both mods are distributed under the same license (Creative Commons Attribution-NonCommercial 4.0 International License).
